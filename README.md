@@ -44,3 +44,8 @@ all.csv - image source (url) & crop information
 
 <pre><code>python download.py all.csv
 </code></pre>
+
+
+## /SAMPLES
+
+--seeds=0-99
