@@ -6,10 +6,6 @@
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0003.jpg?raw=true)
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0004.jpg?raw=true)
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0005.jpg?raw=true)
-![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0006.jpg?raw=true)
-![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0007.jpg?raw=true)
-![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0008.jpg?raw=true)
-![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0009.jpg?raw=true)
 
  
 ## Model Weights
