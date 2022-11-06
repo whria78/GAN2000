@@ -11,6 +11,8 @@ Download Model Weights - https://doi.org/10.6084/m9.figshare.21507189
 
 ## /WHRIA/RESULT
 
+Download result images - https://doi.org/10.6084/m9.figshare.21507189
+
 256x256 resolution; melanocyticnevus
 
 <pre><code>python gen_images.py --network=network-snapshot-000800.pkl --seeds=0-9999 --outdir=./WHRIA/RESULT/256
@@ -27,3 +29,5 @@ malignant melanoma - 908 images
 melanocytic nevus - 1098 images
 all.csv - image source (url) & crop information
 
+<pre><code>python download.py all.csv
+</code></pre>
