@@ -1,17 +1,17 @@
 # GAN2000
  
-## /WHRIA/MODEL
+## Model Weights
 
-Download Model Weights - https://doi.org/10.6084/m9.figshare.21507189
+Download - https://doi.org/10.6084/m9.figshare.21507189
 
 256x256 resolution; melanocyticnevus - network-snapshot-000800.pkl
 
 512x512 resolution; melanocyticnevus - network-snapshot-000200.pkl
 
 
-## /WHRIA/RESULT
+## Result Images
 
-Download result images - https://doi.org/10.6084/m9.figshare.21507189
+Download - https://doi.org/10.6084/m9.figshare.21507189
 
 256x256 resolution; melanocyticnevus
 
