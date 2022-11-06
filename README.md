@@ -1,5 +1,7 @@
 # GAN2000
 
+Synthetic images from the most unstandardized internet clinical photographs
+
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0000.jpg?raw=true)
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0001.jpg?raw=true)
 ![img](https://github.com/whria78/gan2000/blob/main/SAMPLES/256/seed0002.jpg?raw=true)
