@@ -23,7 +23,7 @@ Download - https://doi.org/10.6084/m9.figshare.21507189
 <pre><code>python gen_images.py --network=network-snapshot-000200.pkl --seeds=0-999 --outdir=./WHRIA/RESULT/512
 </code></pre>
 
-## /WHRIA/DATASET
+## /DATASET
 
 malignant melanoma - 908 images
 
