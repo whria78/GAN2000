@@ -26,7 +26,10 @@ Download result images - https://doi.org/10.6084/m9.figshare.21507189
 ## /WHRIA/DATASET
 
 malignant melanoma - 908 images
+
 melanocytic nevus - 1098 images
+
+
 all.csv - image source (url) & crop information
 
 <pre><code>python download.py all.csv
